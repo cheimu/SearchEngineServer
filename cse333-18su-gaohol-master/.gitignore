@@ -26,3 +26,7 @@
 
 # OS X finder files (doesn't happen on linux, but sometimes useful)
 .DS_Store
+
+src/main/resources/static/* linguist-vendored
+project-docs/* linguist-documentation
+*.rb linguist-language=C/C++
